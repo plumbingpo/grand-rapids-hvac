@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grandrapidshvacco.com/sitemap.xml
